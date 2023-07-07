@@ -1,0 +1,14 @@
+.textPart {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    background-color: red;
+
+    p {
+        font-weight: 500;
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "Nağıl",
+            "ibdb": "5.5",
+            "img": "../../images/bookContainerImage/book1.jpg",
+            "whichType": "Romantic"
+        },
+        {
+            "id": "2",
+            "name": "Bədii",
+            "ibdb": "7.5",
+            "img": "../../images/bookContainerImage/book2.jpg",
+            "whichType": "Romantic"
+        },
+        {
+            "id": "3",
+            "name": "Dini",
+            "ibdb": "6.5",
+            "img": "../../images/bookContainerImage/book3.jpg",
+            "whichType": "Romantic"
+        }
+    ]
+}
